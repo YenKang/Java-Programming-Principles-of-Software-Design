@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=order
+comment0.target=MarkovWord(int)
+comment1.params=seed
+comment1.target=void\ setRandom(int)
+comment2.params=text
+comment2.target=void\ setTraining(java.lang.String)
+comment3.params=words\ target\ start
+comment3.target=int\ indexOf(java.lang.String[],\ WordGram,\ int)
+comment3.text=\n\ Looks\ for\ the\ first\ position\ from\ start\ that\ has\ words\ in\ the\ array\ words\ \n\ that\ match\ the\ WordGram\ target.\ If\ no\ match\ is\ found,\ returns\ -1.\n
+comment4.params=kGram
+comment4.target=java.util.ArrayList\ getFollows(WordGram)
+comment4.text=\n\ Returns\ an\ ArrayList\ of\ all\ the\ single\ words\ that\ immediately\ follow\ an\n\ instance\ of\ the\ WordGram\ parameter\ somewhere\ in\ the\ training\ text\n
+comment5.params=numWords
+comment5.target=java.lang.String\ getRandomText(int)
+comment5.text=\n\ Generates\ and\ returns\ random\ text\ that\ has\ numWords\ words.\ Generates\ each\ word\ by\ \n\ randomly\ choosing\ a\ word\ from\ the\ training\ text\ that\ follows\ the\ current\ word(s)\ \n\ in\ the\ training\ text.\n
+numComments=6

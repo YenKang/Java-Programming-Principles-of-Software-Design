@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=num
+comment0.target=EfficientMarkovModel(int)
+comment0.text=\n\ Takes\ integer\ specifying\ the\ number\ of\ characters\ to\ use\ to\ predict\ the\ next\ character.\n
+comment1.params=
+comment1.target=java.lang.String\ toString()
+comment2.params=s
+comment2.target=void\ setTraining(java.lang.String)
+comment3.params=numChars
+comment3.target=java.lang.String\ getRandomText(int)
+comment3.text=\n\ Predicts\ the\ next\ character\ by\ finding\ all\ the\ characters\ that\ follow\ a\ substring\ of\ keyLength\n\ characters\ in\ the\ training\ text,\ and\ then\ randomly\ picking\ one\ of\ them\ as\ the\ next\ character.\n
+comment4.params=
+comment4.target=void\ buildMap()
+comment4.text=\n\ Builds\ a\ HashMap\ to\ calculate\ the\ follows\ ArrayList\ for\ each\ possible\ substring\ only\ once.\n
+comment5.params=
+comment5.target=void\ printHashMapInfo()
+comment5.text=\n\ Tests\ HashMap\ to\ make\ sure\ it\ is\ built\ correctly.\n
+comment6.params=key
+comment6.target=java.util.ArrayList\ getFollows(java.lang.String)
+numComments=7

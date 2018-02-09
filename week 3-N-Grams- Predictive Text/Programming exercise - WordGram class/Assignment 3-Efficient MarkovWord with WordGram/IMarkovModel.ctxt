@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=text
+comment0.target=void\ setTraining(java.lang.String)
+comment1.params=seed
+comment1.target=void\ setRandom(int)
+comment2.params=numChars
+comment2.target=java.lang.String\ getRandomText(int)
+numComments=3

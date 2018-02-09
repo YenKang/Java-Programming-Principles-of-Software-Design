@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=markov\ text\ size\ seed
+comment0.target=void\ runModel(IMarkovModel,\ java.lang.String,\ int,\ int)
+comment1.params=
+comment1.target=void\ runMarkov()
+comment2.params=s
+comment2.target=void\ printOut(java.lang.String)
+comment3.params=
+comment3.target=void\ testHashMap()
+comment4.params=
+comment4.target=void\ compareMethods()
+numComments=5

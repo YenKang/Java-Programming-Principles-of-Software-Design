@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=MarkovFour()
+comment1.params=seed
+comment1.target=void\ setRandom(int)
+comment2.params=s
+comment2.target=void\ setTraining(java.lang.String)
+comment3.params=numChars
+comment3.target=java.lang.String\ getRandomText(int)
+comment4.params=key
+comment4.target=java.util.ArrayList\ getFollows(java.lang.String)
+numComments=5
